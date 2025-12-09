@@ -2,7 +2,6 @@
 
 [![Chrome](https://github.com/desarrollador-amorales/Cypress--ARMJ/actions/workflows/main.yml/badge.svg)](https://github.com/desarrollador-amorales/Cypress--ARMJ/actions/workflows/main.yml)
 
-Link a reporte de pruebas https://desarrollador-amorales.github.io/Cypress--ARMJ/
 
 ----------------------------
 
